@@ -32,8 +32,8 @@ html {
   width: 10rem;
   background: linear-gradient(
     to right,
-    rgba(255, 255, 255, 0),
-    rgba(255, 255, 255, 1) 100%
+    rgba(247, 248, 248, 0),
+    rgb(9, 13, 216) 100%
   );
 }
 
@@ -94,12 +94,12 @@ a {
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   html {
-    color-scheme: dark;
+    color-scheme: light;
   }
   body {
-    color: white;
-    background: black;
+    color: black;
+    background: white;
   }
 }

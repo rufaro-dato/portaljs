@@ -1,6 +1,6 @@
-# My Dataset
+# My Awesome Dataset
 
-Built with PortalJS 
+Built using PortalJS. Made by Rufaro Nyakudya.
 
 ## Table 
 
